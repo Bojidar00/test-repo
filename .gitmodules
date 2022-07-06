@@ -1,0 +1,3 @@
+[submodule "solid-proxy"]
+	path = solid-proxy
+	url = https://github.com/Applied-Blockchain-Lab/solid-proxy
